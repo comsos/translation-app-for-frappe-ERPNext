@@ -96,11 +96,15 @@ app_license = "MIT"
 # Hook on document methods and events
 
 # doc_events = {
-#	"*": {
-#		"on_update": "method",
-#		"on_cancel": "method",
-#		"on_trash": "method"
-#	}
+# 	# "*": {
+# 	# 	"on_update": "method",
+# 	# 	"on_cancel": "method",
+# 	# 	"on_trash": "method"
+# 	# }
+# 	"TranslateText":{
+# 		"validate": "translation_app.translation_app.doctype.translatetext.translateString.changeText"
+
+# 	 }
 # }
 
 # Scheduled Tasks

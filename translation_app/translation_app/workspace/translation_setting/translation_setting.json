@@ -1,0 +1,38 @@
+{
+ "category": "Modules",
+ "charts": [],
+ "creation": "2022-08-25 17:24:06.416787",
+ "developer_mode_only": 1,
+ "disable_user_customization": 0,
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "extends_another_page": 0,
+ "hide_custom": 0,
+ "icon": "hr",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "label": "Translation Setting",
+ "links": [],
+ "modified": "2022-08-25 17:24:06.416787",
+ "modified_by": "Administrator",
+ "module": "Translation App",
+ "name": "Translation Setting",
+ "owner": "Administrator",
+ "pin_to_bottom": 0,
+ "pin_to_top": 0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Translate Text",
+   "link_to": "TranslateText",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Translation Doc",
+   "link_to": "TranslationDoc",
+   "type": "DocType"
+  }
+ ]
+}
